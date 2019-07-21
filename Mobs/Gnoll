@@ -1,0 +1,12 @@
+NAME:Gnoll
+IMG:Mobs/Gnoll.jpg
+HIT:65
+AC:14
+SP:30
+STR:17
+DEX:15
+CON:15
+INT:10
+WIS:11
+CHA:13
+DMG:1d6+3 1d8+3
